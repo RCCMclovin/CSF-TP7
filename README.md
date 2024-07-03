@@ -36,7 +36,7 @@ Este teste consiste em calcular a perda em um caminho interrompido por vegetaç�
 
 A fórmula para esta perda é:
 
-![Weissberger's exponential decay](/img/formula.svg)
+![Weissberger's exponential decay](/img/formula.png)
 
 Onde:
 
